@@ -1,0 +1,23 @@
+# Framework web para expor a API
+fastapi
+
+# Servidor ASGI para rodar o FastAPI
+uvicorn
+
+# Cliente HTTP para chamadas às APIs externas (clima, notícias, etc.)
+requests
+
+# Gerenciamento de variáveis de ambiente (.env)
+python-dotenv
+
+# Núcleo do LangChain (estruturas base, chains, agentes)
+langchain
+
+# Conectores e integrações da comunidade LangChain (inclui ChatOllama, ferramentas, etc.)
+langchain-community
+
+# Cliente oficial para comunicação com o servidor Ollama
+ollama
+
+# Testes automatizados
+pytest
