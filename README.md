@@ -19,7 +19,7 @@ Modelos do Ollama (exemplo: mistral, llama3 ou outro de sua preferência)
 
 Clone o repositório:
 git clone https://github.com/SilasGuilherme/ai-assistant-multiple-tools.git
-cd ai-assistant
+cd ai-assistant-multiple-tools
 
 Crie e ative um ambiente virtual:
 python -m venv .venv
